@@ -6,8 +6,7 @@
 本项目的数据存储基于mysql，需要安装idea后连接数据库
 mysql安装方法：https://blog.csdn.net/wer24_25/article/details/139959655
 
-请注意登录自己的数据库需要更换代码中连接数据库的账号密码
-完成之后请点击LibraryTableCreator.sql文件运行创建表的脚本完成数据表创建
+请注意登录自己的数据库需要更换代码中连接数据库的账号密码，完成之后请点击LibraryTableCreator.sql文件运行创建表的脚本完成数据表创建
 
 ### 操作方法和功能介绍
 
