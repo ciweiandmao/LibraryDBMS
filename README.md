@@ -2,6 +2,7 @@
 
 ### 环境配置
 [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/ciweiandmao/LibraryDBMS/blob/master/LICENSE)
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
 本项目的数据存储基于mysql，需要安装idea后连接数据库
 mysql安装方法：https://blog.csdn.net/wer24_25/article/details/139959655
