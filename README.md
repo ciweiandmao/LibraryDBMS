@@ -10,7 +10,7 @@ mysql安装方法：https://blog.csdn.net/wer24_25/article/details/139959655
 
 ### 操作方法和功能介绍
 
-登录界面的初始管理员账号和密码都是空，点击登录即可
+运行Windows.java,登录界面的初始管理员账号和密码都是空，点击登录即可
 ![img.png](images/img.png)
 
 进入之后可以选择功能，对各种事务进行管理
